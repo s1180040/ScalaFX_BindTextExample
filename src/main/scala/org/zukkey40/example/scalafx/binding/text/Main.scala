@@ -1,4 +1,4 @@
-package org.zukkey40.example.scalafx.bind
+package org.zukkey40.example.scalafx.binding.text
 
 import scalafx.Includes._
 import scalafx.application.JFXApp
